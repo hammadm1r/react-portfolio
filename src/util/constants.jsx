@@ -149,6 +149,28 @@ export const socialLinks = [
       link: "#",
     },
     {
+      title: "Traveler",
+      description: "Traveler is a MERN-stack social platform where users can share travel experiences, follow others, and interact through posts. It features secure authentication, profile management, and an engaging feed.",
+      image: traveler,
+      techStack: [
+        "React",
+        "Redux Toolkit",
+        "Node Js",
+        "Express",
+        "Cloudinary",
+        "Mongo DB",
+        "Vite",
+        "Axios",
+        "Multer",
+        "React Icons",
+        "TailwindCSS",
+        "SweetAlert2",
+        "JWT",
+        "Git"
+      ],
+      link: "https://truetraveler.netlify.app/",
+    },
+    {
       title: "Foodie",
       description: "Foodie is a MERN-stack web app for ordering groceries, fast food, and essentials online. It features secure authentication, a responsive UI, and Stripe-powered payments.",
       image: foodie,
@@ -170,27 +192,6 @@ export const socialLinks = [
         "Git",
       ],
       link: "https://github.com/hammadm1r/Foodie-App",
-    },
-    {
-      title: "Traveler",
-      description: "Traveler is a MERN-stack social platform where users can share travel experiences, follow others, and interact through posts. It features secure authentication, profile management, and an engaging feed.",
-      image: traveler,
-      techStack: [
-        "React",
-        "Redux Toolkit",
-        "Node Js",
-        "Express",
-        "Cloudinary",
-        "Mongo DB",
-        "Vite",
-        "Axios",
-        "Multer",
-        "React Icons",
-        "TailwindCSS",
-        "SweetAlert2",
-        "JWT",
-        "Git"
-      ],
-      link: "https://github.com/hammadm1r/traveler_client",
     }
+    
   ]
